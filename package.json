@@ -2,7 +2,7 @@
     "name": "clc-ext-pack",
     "displayName": "ext pack for the clc team",
     "version": "1.0.0",
-    "publisher": "jclayborn",
+    "publisher": "jclayborn-averoinc",
     "engines": {
         "vscode": "^1.60.0"
     },
