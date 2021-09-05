@@ -1,7 +1,7 @@
 {
     "name": "clc-ext-pack",
     "displayName": "ext pack for the clc team",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "publisher": "JaredClayborn",
     "engines": {
         "vscode": "^1.60.0"
@@ -34,6 +34,8 @@
         "ms-azuretools.vscode-docker",
         "streetsidesoftware.code-spell-checker",
         "coenraads.bracket-pair-colorizer-2",
-        "aaron-bond.better-comments"
+        "aaron-bond.better-comments",
+        "atlassian.atlascode",
+        "esbenp.prettier-vscode"
     ]
 }

@@ -15,5 +15,6 @@
 - [code spell checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 - [bracket pair colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 - [better comments](https://github.com/aaron-bond/better-comments)
-
+- [Jira and Bitbucket (Atlassian Labs)](https://bitbucket.org/atlassianlabs/atlascode/src/main/)
+- [Prettier](https://github.com/prettier/prettier-vscode)
 **Enjoy!**
